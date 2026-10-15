@@ -1,4 +1,4 @@
-# GitHub Issue Policy
+# GitHub Issued Policy
 
 If you open a GitHub Issue, here is our policy:
 
